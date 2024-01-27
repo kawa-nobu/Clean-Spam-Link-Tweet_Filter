@@ -9,3 +9,12 @@ https://docs.google.com/spreadsheets/d/16Uc9OTqXgLiRALhyiO7evHFAkjjkUvwJ
 
 JSDelivr URL
 https://cdn.jsdelivr.net/gh/kawa-nobu/Clean-Spam-Link-Tweet_Filter@latest/
+
+## インプレフィルタについて
+インプレフィルタは本拡張機能を利用するユーザーの中で、  
+情報提供に応じていただいている方々の協力によって実現されています。
+
+監査は全て人力で行っており、細心の注意や厳密な条件のもとフィルタの更新を行っています。  
+しかし、監査者のミスにより関係のないユーザーが含まれていることがあります。  
+万が一フィルタ内に誤って追加されておりご自身が悪質な行為を行った覚えがない様であれば、  
+このリポジトリへIssueを投げるなど異議申し立てをご申告ください。
